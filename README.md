@@ -13,3 +13,7 @@ Selecione no seu computador os arquivos perguntas.csv e respostas.json e faça o
 Aguarde o carregamento. Quando os nomes dos dois arquivos aparecerem na lista abaixo da pasta sample_data, o ambiente estará pronto!
 
 Agora é só rodar o código normalmente clicando no botão de "Play" das células ou em "Ambiente de execução" > "Executar tudo".
+
+
+Lucas de Almeida Lima - 2421495
+Yago Feitosa Kawauchi 
